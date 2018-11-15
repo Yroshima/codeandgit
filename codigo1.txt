@@ -1,1 +1,1 @@
-alterando codificacao
+alterando codificacao no outro bash
